@@ -2,8 +2,10 @@
 
 nav
 {
-    display: column;
-    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 400px;
     margin: 12px;
     border: 1px solid black;
     text-align: justify;
@@ -12,6 +14,16 @@ nav
     position: left;
     background-color: rgba(54, 52, 54, 0.7);
     border-radius: 10px;
+    word-spacing: -1px;
+}
+
+
+ul
+{
+    list-style-type:none;
+    padding:0;
+    margin:0; 
+    word-spacing: -1px;
 }
 
 iframe
