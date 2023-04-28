@@ -1,7 +1,6 @@
 /* style="max-width : 710px;"*/
 
-nav
-{
+nav {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
