@@ -113,7 +113,7 @@ h3
     font-family:'permanent-marker';             
     font-size: 25px;
     background-size: auto; 
-    background-color: rgba(54, 52, 54, 0.7);
+    background-color: rgba(54, 52, 54, 0.8);
     margin: 12px;
     padding: 12px;
 
@@ -177,7 +177,7 @@ p
 {
     font-family: 'bitoperator_jve';
     font-size: 30px;
-    background-color: rgba(54, 52, 54, 0.7);
+    background-color: rgba(54, 52, 54, 0.8);
     margin: 12px;
     padding: 12px;
     display: flex;
