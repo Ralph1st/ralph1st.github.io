@@ -138,14 +138,14 @@ a
 
 a:hover
 {
-    color: darkcyan;
+    color: lightpink;
     margin: 12px;
     padding: 12px;
 }
 
 a:focus
 {
-    color: lightpink;
+    color: darkcyan;
     /*background-color: darkcyan;*/
     margin: 12px;
     padding: 12px;
@@ -190,7 +190,7 @@ p
 
 img:hover
 {
-    border: 7px solid #444;
+    border: 7px solid darkcyan;
 }
 
 
