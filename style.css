@@ -131,21 +131,22 @@ a
 {
     font-family:'basic_pixel';
     font-size: x-large;
-    color: whitesmoke;
+    color: lightcyan;
     margin: 12px;
     padding: 12px;
 }
 
 a:hover
 {
-    color: #c3e8e5;
+    color: darkcyan;
     margin: 12px;
     padding: 12px;
 }
 
 a:focus
 {
-    background-color: rgba(0, 0, 0, 0.30);
+    color: lightpink;
+    /*background-color: darkcyan;*/
     margin: 12px;
     padding: 12px;
 }
