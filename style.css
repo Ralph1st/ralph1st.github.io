@@ -11,10 +11,7 @@ nav
     margin-bottom: 20px;
     position: left;
     background-color: rgba(54, 52, 54, 0.7);
-    border-top-left-radius: 10px;
-    border-top-right-radius: 5px;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 10px;
+    border-radius: 10px;
 }
 
 iframe
