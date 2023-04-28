@@ -11,10 +11,6 @@ nav
     margin-bottom: 20px;
     position: left;
     background-color: rgba(54, 52, 54, 0.7);
-    border-top-left-radius: 10px;
-    border-top-right-radius: 5px;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 10px;
 }
 
 iframe
@@ -31,7 +27,7 @@ iframe
 }
 body
 {
-    background: url("img/Fond.png") fixed no-repeat center;
+    background: url("img/télécharger.png") fixed no-repeat center;
 
 }
 
