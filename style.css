@@ -34,9 +34,7 @@ iframe
     margin: 12px;
     margin-bottom: 20px;
     position: left;
-    border: 5px solid black;
-    
-    
+
 }
 body
 {
@@ -196,6 +194,7 @@ p
 img:hover
 {
     border: 7px solid darkcyan;
+    border-radius: 10px;
 }
 
 
