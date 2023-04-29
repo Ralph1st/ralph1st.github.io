@@ -109,14 +109,15 @@ h2
     font-size: 30px;
     margin: 12px;
     padding: 12px;
-    color: white;
+    color: whitesmoke;
     min-width: 200px;
     word-spacing: -1px;
 }
 
 h3
 {
-    font-family:'SuperSonADV';             
+    font-family:'SuperSonADV';   
+    color:whitesmoke;          
     font-size: 25px;
     background-size: auto; 
     background-color: rgba(54, 52, 54, 0.9);
