@@ -1,6 +1,6 @@
 console.log('JavaScript code is running!');
 
-const Discord = require('discord.js');
+import Discord from 'discord.js';
 
 const inviteEmbed = new Discord.MessageEmbed()
     .setTitle('Join Our Discord Server!')
