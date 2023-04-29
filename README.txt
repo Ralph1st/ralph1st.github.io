@@ -1,5 +1,5 @@
 Portfolio of Raphaël Périnet,
-Made of three sections :
+Made of five pages :
 
 1. Who I am + Index + Contact
 
@@ -7,4 +7,6 @@ Made of three sections :
 
 3. Other Coding Projects
 
-4. Old Website (Console Story)
+4. Old Website project (Console Story)
+
+5. CV
