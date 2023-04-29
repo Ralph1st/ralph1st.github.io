@@ -177,7 +177,8 @@ p
 
 img:hover
 {
-    border: 7px solid #444;
+    border: 7px solid darkcyan;
+    border-radius: 10px;
 }
 
 
