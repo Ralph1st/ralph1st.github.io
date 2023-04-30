@@ -29,13 +29,19 @@ ul
 iframe
 {
     /*background-color: rgba(224, 24, 24, 0.1);*/
-    background: url("img/ytb_loading.gif") no-repeat center, repeat rgba(204,17,30);
+    
     display: column;
     margin: 12px;
     margin-bottom: 20px;
     position: left;
 
 }
+
+ytb
+{
+    background: url("img/ytb_loading.gif") no-repeat center, repeat rgba(204,17,30);
+}
+
 body
 {
     background: url("img/Fond.png") fixed no-repeat center;
