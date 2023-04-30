@@ -80,6 +80,11 @@ body
     src: url('bitoperatorjve.woff');
 }
 
+@font-face {
+    font-family: 'Sonic2';
+    src: url('VIPNAGOR.ttf');
+}
+
 body
 {
     background-color: #505050;
