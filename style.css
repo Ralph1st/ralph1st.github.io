@@ -34,6 +34,8 @@ iframe
     margin: 12px;
     margin-bottom: 20px;
     position: left;
+    background: url("img/LoadingAnim-FDS.gif") no-repeat bottom, repeat black;
+
 
 }
 
