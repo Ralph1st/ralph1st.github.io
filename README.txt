@@ -8,5 +8,3 @@ Made of five pages :
 3. Other Coding Projects
 
 4. Old Website project (Console Story)
-
-5. CV
