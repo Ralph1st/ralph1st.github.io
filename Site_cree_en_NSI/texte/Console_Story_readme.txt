@@ -6,7 +6,7 @@ J'ai très peu retouché ce site, j'ai simplement mis à jour les mails du lycé
 Et j'ai rajouté quelques vidéos à la fin de la NES et de la N64.
 Pour le coder, nous avons utilisé un serveur discord (https://discord.gg/y7gbSg7eFr , toujours actif aujourd'hui) 
 Qui nous a servi à conserver différentes versions du code, et à nous les communiquer : 
-très pratique quand je me suis fait opéré des dens de sagesse, ou quand je suis parti en vacances.
+très pratique quand je me suis fait opéré des dents de sagesse, ou quand je suis parti en vacances.
 
 (la suite de ce .txt avait été écrite à l'attention de notre prof. j'ai quasi rien touché de ce que j'avais écrit)
 
